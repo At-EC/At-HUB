@@ -1,6 +1,13 @@
 ## Introduce
 
-The At-Hub([@ Hub](https://github.com/At-EC/At-Hub)) repository is used to manage all ([@ EC](https://github.com/At-EC)) repositories and does not implement any functions of the code business logic itself. You can use it by the following instructions.
+The At-Hub([@ Hub](https://github.com/At-EC/At-Hub)) repository is used to manage all ([@ EC](https://github.com/At-EC)) repositories and does not implement any functions of the code business logic itself, and the current supported repositories are shown in the following lists.
+
+* **[At-RTOS](https://github.com/At-EC/At-RTOS)**: An open and user-friendly real-time operating system (RTOS) for embedded controller (EC).
+* **[At-FSM](https://github.com/At-EC/At-FSM)**: An open and user-friendly embedded Finite State Machine (FSM) included the Primitive State Machine (PSM) and Hierarchical State Machine (HSM).
+
+## Usage
+
+You can download and start to use it by the following instructions.
 
 ```shell
 git clone https://github.com/At-EC/At-Hub.git
