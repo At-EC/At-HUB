@@ -1,0 +1,6 @@
+[submodule "fsm"]
+	path = fsm
+	url = https://github.com/At-EC/At-FSM.git
+[submodule "rtos"]
+	path = rtos
+	url = https://github.com/At-EC/At-RTOS.git
