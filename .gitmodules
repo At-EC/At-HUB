@@ -4,3 +4,6 @@
 [submodule "rtos"]
 	path = rtos
 	url = https://github.com/At-EC/At-RTOS.git
+[submodule "bsi"]
+	path = bsi
+	url = https://github.com/At-EC/At-BSI.git
